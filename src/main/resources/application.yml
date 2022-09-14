@@ -1,0 +1,8 @@
+elastic:
+  cluster-host: search.es-dev.u-mei.com
+  cluster-port: 80
+  cluster-name: es-cluster-7
+  client:
+    connect-num: 20
+    connect-per-route: 5
+
